@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+.poster {
+    width: 70%;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+    font-style: normal;
+    font-weight: 700;
+}
+h1 {
+    font-size: 2.5rem;
+    font-family: "Archivo Black", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+p {
+    font-size: 1.5rem;
+    font-family: "Raleway", sans-serif;
+    font-weight: normal;
+}
+
+cite {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+}
+
+img {
+    max-width: 40%;
+    border: 5px solid white;
+}
+
+.img2 {
+    margin-left: 15px;
+}
